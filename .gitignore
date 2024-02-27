@@ -1,0 +1,7 @@
+# ignore all (big) data files
+.gpkg
+.pbf
+
+# ignore folder
+src_py/
+
